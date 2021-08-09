@@ -1,6 +1,4 @@
-### H3
-
-** GUIDE **
+### ** GUIDE **
 
 1. Before run please, checkout to branch 'develop' and then install :
 
