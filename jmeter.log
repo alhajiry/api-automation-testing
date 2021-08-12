@@ -1,0 +1,124 @@
+2021-08-10 14:23:35,097 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-08-10 14:23:35,157 INFO o.a.j.JMeter: Loading user properties from: /usr/local/Cellar/jmeter/5.4.1/libexec/bin/user.properties
+2021-08-10 14:23:35,161 INFO o.a.j.JMeter: Loading system properties from: /usr/local/Cellar/jmeter/5.4.1/libexec/bin/system.properties
+2021-08-10 14:23:35,169 INFO o.a.j.JMeter: Copyright (c) 1998-2021 The Apache Software Foundation
+2021-08-10 14:23:35,169 INFO o.a.j.JMeter: Version 5.4.1
+2021-08-10 14:23:35,169 INFO o.a.j.JMeter: java.version=16.0.1
+2021-08-10 14:23:35,169 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2021-08-10 14:23:35,169 INFO o.a.j.JMeter: os.name=Mac OS X
+2021-08-10 14:23:35,169 INFO o.a.j.JMeter: os.arch=x86_64
+2021-08-10 14:23:35,169 INFO o.a.j.JMeter: os.version=11.5
+2021-08-10 14:23:35,169 INFO o.a.j.JMeter: file.encoding=UTF-8
+2021-08-10 14:23:35,169 INFO o.a.j.JMeter: java.awt.headless=null
+2021-08-10 14:23:35,170 INFO o.a.j.JMeter: Max memory     =1073741824
+2021-08-10 14:23:35,170 INFO o.a.j.JMeter: Available Processors =8
+2021-08-10 14:23:35,181 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-08-10 14:23:35,181 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-08-10 14:23:35,181 INFO o.a.j.JMeter: JMeterHome=/usr/local/Cellar/jmeter/5.4.1/libexec
+2021-08-10 14:23:35,181 INFO o.a.j.JMeter: user.dir  =/Users/it200278/practice/bukalapak/api_automation_test
+2021-08-10 14:23:35,181 INFO o.a.j.JMeter: PWD       =/Users/it200278/practice/bukalapak/api_automation_test
+2021-08-10 14:23:35,183 INFO o.a.j.JMeter: IP: 127.0.0.1 Name: MACMVHP3XYWMB.local FullName: localhost
+2021-08-10 14:23:36,209 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2021-08-10 14:23:39,635 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2021-08-10 14:23:41,159 WARN o.j.r.PluginManager: Found JAR conflict: /usr/local/Cellar/jmeter/5.4.1/libexec/lib/ext/mongo-java-driver-3.12.6.jar and /usr/local/Cellar/jmeter/5.4.1/libexec/lib/mongo-java-driver-3.12.6.jar
+2021-08-10 14:23:41,190 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=mac_os_x-a1a8f756671d6c363f4474ba806d2abe-gui
+2021-08-10 14:23:45,511 INFO o.a.j.s.FileServer: Default base='/Users/it200278/practice/bukalapak/api_automation_test'
+2021-08-10 14:23:45,513 INFO o.a.j.g.a.Load: Loading file: /Users/it200278/jenius/JENIUS_ONBOARDING/JNS_Create New Account SIT and UAT.jmx
+2021-08-10 14:23:45,513 INFO o.a.j.s.FileServer: Set new base='/Users/it200278/jenius/JENIUS_ONBOARDING'
+2021-08-10 14:23:45,669 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2021-08-10 14:23:45,680 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2021-08-10 14:23:45,681 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2021-08-10 14:23:45,683 INFO o.a.j.s.SaveService: Loading file: /Users/it200278/jenius/JENIUS_ONBOARDING/JNS_Create New Account SIT and UAT.jmx
+2021-08-10 14:23:45,932 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-08-10 14:23:45,932 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-08-10 14:23:45,933 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-08-10 14:23:45,933 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-08-10 14:23:45,933 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2021-08-10 14:23:45,933 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2021-08-10 14:23:47,046 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2021-08-10 14:23:47,046 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2021-08-10 14:23:47,046 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2021-08-10 14:23:47,046 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2021-08-10 14:23:47,180 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2021-08-10 14:23:47,767 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2021-08-10 14:23:48,143 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2021-08-10 14:23:48,221 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2021-08-10 14:23:48,270 INFO o.a.j.s.FileServer: Set new base='/Users/it200278/jenius/JENIUS_ONBOARDING'
+2021-08-10 14:23:48,315 ERROR o.a.j.JMeter: Uncaught exception in thread Thread[AWT-EventQueue-0,6,main]
+java.lang.IllegalAccessError: class com.github.weisj.darklaf.ui.filechooser.DarkFilePaneUIBridge$DetailsTableModel (in unnamed module @0x341b80b2) cannot access class sun.awt.shell.ShellFolder (in module java.desktop) because module java.desktop does not export sun.awt.shell to unnamed module @0x341b80b2
+	at com.github.weisj.darklaf.ui.filechooser.DarkFilePaneUIBridge$DetailsTableModel.updateColumnInfo(DarkFilePaneUIBridge.java:1128) ~[darklaf-core-2.5.4.jar:2.5.4]
+	at com.github.weisj.darklaf.ui.filechooser.DarkFilePaneUIBridge$DetailsTableModel.<init>(DarkFilePaneUIBridge.java:1115) ~[darklaf-core-2.5.4.jar:2.5.4]
+	at com.github.weisj.darklaf.ui.filechooser.DarkFilePaneUIBridge.getDetailsTableModel(DarkFilePaneUIBridge.java:576) ~[darklaf-core-2.5.4.jar:2.5.4]
+	at com.github.weisj.darklaf.ui.filechooser.DarkFilePaneUIBridge$SortableListModel.<init>(DarkFilePaneUIBridge.java:1079) ~[darklaf-core-2.5.4.jar:2.5.4]
+	at com.github.weisj.darklaf.ui.filechooser.DarkFilePane.createList(DarkFilePane.java:137) ~[darklaf-core-2.5.4.jar:2.5.4]
+	at com.github.weisj.darklaf.ui.filechooser.DarkFileChooserUIBridge.createList(DarkFileChooserUIBridge.java:585) ~[darklaf-core-2.5.4.jar:2.5.4]
+	at com.github.weisj.darklaf.ui.filechooser.DarkFileChooserUIBridge$MetalFileChooserUIAccessor.createList(DarkFileChooserUIBridge.java:750) ~[darklaf-core-2.5.4.jar:2.5.4]
+	at com.github.weisj.darklaf.ui.filechooser.DarkFilePaneUIBridge.setViewType(DarkFilePaneUIBridge.java:376) ~[darklaf-core-2.5.4.jar:2.5.4]
+	at com.github.weisj.darklaf.ui.filechooser.DarkFilePaneUIBridge.propertyChange(DarkFilePaneUIBridge.java:890) ~[darklaf-core-2.5.4.jar:2.5.4]
+	at java.beans.PropertyChangeSupport.fire(PropertyChangeSupport.java:342) ~[?:?]
+	at java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:334) ~[?:?]
+	at java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:267) ~[?:?]
+	at java.awt.Component.firePropertyChange(Component.java:8713) ~[?:?]
+	at javax.swing.JComponent.setUI(JComponent.java:688) ~[?:?]
+	at javax.swing.JFileChooser.updateUI(JFileChooser.java:1838) ~[?:?]
+	at javax.swing.JFileChooser.setup(JFileChooser.java:395) ~[?:?]
+	at javax.swing.JFileChooser.<init>(JFileChooser.java:361) ~[?:?]
+	at javax.swing.JFileChooser.<init>(JFileChooser.java:308) ~[?:?]
+	at org.apache.jmeter.gui.util.FileDialoger.<clinit>(FileDialoger.java:42) ~[ApacheJMeter_core.jar:5.4.1]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:156) ~[ApacheJMeter_core.jar:5.4.1]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:101) ~[ApacheJMeter_core.jar:5.4.1]
+	at org.apache.jmeter.gui.action.LoadDraggedFile.loadProject(LoadDraggedFile.java:37) ~[ApacheJMeter_core.jar:5.4.1]
+	at org.apache.jmeter.gui.MainFrame.openJmxFilesFromDragAndDrop(MainFrame.java:855) ~[ApacheJMeter_core.jar:5.4.1]
+	at org.apache.jmeter.gui.tree.JMeterTreeTransferHandler.importData(JMeterTreeTransferHandler.java:207) ~[ApacheJMeter_core.jar:5.4.1]
+	at javax.swing.TransferHandler$DropHandler.drop(TransferHandler.java:1544) ~[?:?]
+	at java.awt.dnd.DropTarget.drop(DropTarget.java:450) ~[?:?]
+	at javax.swing.TransferHandler$SwingDropTarget.drop(TransferHandler.java:1282) ~[?:?]
+	at sun.awt.dnd.SunDropTargetContextPeer.processDropMessage(SunDropTargetContextPeer.java:547) ~[?:?]
+	at sun.lwawt.macosx.CDropTargetContextPeer.processDropMessage(CDropTargetContextPeer.java:129) ~[?:?]
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchDropEvent(SunDropTargetContextPeer.java:863) ~[?:?]
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchEvent(SunDropTargetContextPeer.java:787) ~[?:?]
+	at sun.awt.dnd.SunDropTargetEvent.dispatch(SunDropTargetEvent.java:48) ~[?:?]
+	at java.awt.Component.dispatchEventImpl(Component.java:4858) ~[?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2322) ~[?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4825) ~[?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4934) ~[?:?]
+	at java.awt.LightweightDispatcher.processDropTargetEvent(Container.java:4637) ~[?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4499) ~[?:?]
+	at java.awt.Container.dispatchEventImpl(Container.java:2308) ~[?:?]
+	at java.awt.Window.dispatchEventImpl(Window.java:2773) ~[?:?]
+	at java.awt.Component.dispatchEvent(Component.java:4825) ~[?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:721) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:715) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:391) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95) ~[?:?]
+	at java.awt.EventQueue$5.run(EventQueue.java:745) ~[?:?]
+	at java.awt.EventQueue$5.run(EventQueue.java:743) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:391) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) ~[?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:742) ~[?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2021-08-10 14:24:11,705 WARN o.j.r.PluginManagerMenuItem: Failed to load plugin updates info
+org.apache.http.conn.ConnectTimeoutException: Connect to jmeter-plugins.org:443 timed out
+	at org.apache.http.conn.ssl.SSLSocketFactory.connectSocket(SSLSocketFactory.java:545) ~[httpclient-4.5.12.jar:4.5.12]
+	at org.apache.http.conn.ssl.SSLSocketFactory.connectSocket(SSLSocketFactory.java:415) ~[httpclient-4.5.12.jar:4.5.12]
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180) ~[httpclient-4.5.12.jar:4.5.12]
+	at org.apache.http.impl.conn.ManagedClientConnectionImpl.open(ManagedClientConnectionImpl.java:326) ~[httpclient-4.5.12.jar:4.5.12]
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:605) ~[httpclient-4.5.12.jar:4.5.12]
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:440) ~[httpclient-4.5.12.jar:4.5.12]
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835) ~[httpclient-4.5.12.jar:4.5.12]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83) ~[httpclient-4.5.12.jar:4.5.12]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56) ~[httpclient-4.5.12.jar:4.5.12]
+	at org.jmeterplugins.repository.JARSourceHTTP.execute(JARSourceHTTP.java:499) ~[jmeter-plugins-manager-1.6.jar:?]
+	at org.jmeterplugins.repository.JARSourceHTTP.execute(JARSourceHTTP.java:494) ~[jmeter-plugins-manager-1.6.jar:?]
+	at org.jmeterplugins.repository.JARSourceHTTP.getJSON(JARSourceHTTP.java:152) ~[jmeter-plugins-manager-1.6.jar:?]
+	at org.jmeterplugins.repository.JARSourceHTTP.getRepositories(JARSourceHTTP.java:276) ~[jmeter-plugins-manager-1.6.jar:?]
+	at org.jmeterplugins.repository.JARSourceHTTP.getRepo(JARSourceHTTP.java:304) ~[jmeter-plugins-manager-1.6.jar:?]
+	at org.jmeterplugins.repository.PluginManager.load(PluginManager.java:71) ~[jmeter-plugins-manager-1.6.jar:?]
+	at org.jmeterplugins.repository.PluginManagerMenuItem$1.run(PluginManagerMenuItem.java:38) [jmeter-plugins-manager-1.6.jar:?]

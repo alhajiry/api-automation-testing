@@ -1,14 +1,6 @@
-const {
-  dataTypeValidation,
-  dataInputValidation,
-  handleFailure,
-  dataHandler,
-} = require("./method");
-const apiFetcher = require("./masterStep");
-const testData = require("./testData");
+const { dataTypeValidation, dataInputValidation } = require("./method");
 
-const fetcher = new apiFetcher("https://jsonplaceholder.cypress.io", "/posts");
-
+const { payload } = require("./testData");
 //Runner
-fetcher.getData("/1").then(dataTypeValidation, handleFailure);
-fetcher.postData(testData).then(dataInputValidation, handleFailure);
+dataInputValidation("/posts", payload);
+dataTypeValidation("/posts", "/1");

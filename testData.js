@@ -4,4 +4,4 @@ const payload = {
   userId: 12,
 };
 
-module.exports = payload;
+module.exports = { payload };
